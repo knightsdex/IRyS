@@ -385,12 +385,12 @@ screen and (max-width:767px) {
 
 @media print,
 screen and (min-width:768px) {
-    .thumb-movie a:hover .icon {
+    .thumb-movie .frame:hover .icon {
         -webkit-animation: flashing .2s 2;
         animation: flashing .2s 2
     }
 
-    .thumb-movie a:hover .thumb {
+    .thumb-movie .frame:hover .thumb {
         opacity: .4;
         -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)"
     }
@@ -4346,7 +4346,7 @@ screen and (max-width:767px) {
 
 @media print,
 screen and (min-width:768px) {
-    .index-Update_Inner .txt .sw-Txt_Sub a:hover {
+    .index-Update_Inner .txt .sw-Txt_Sub .frame:hover {
         text-decoration: none
     }
 }
@@ -5110,27 +5110,27 @@ screen and (max-width:767px) {
 
 @media print,
 screen and (min-width:768px) {
-    .index-Member_List_Item a:hover {
+    .index-Member_List_Item .frame:hover {
         cursor: pointer
     }
 
-    .index-Member_List_Item a:hover .bg-color.layer {
+    .index-Member_List_Item .frame:hover .bg-color.layer {
         background: #c00
     }
 
-    .index-Member_List_Item a:hover .bg-color.lock {
+    .index-Member_List_Item .frame:hover .bg-color.lock {
         background: #ae2
     }
 
-    .index-Member_List_Item a:hover .bg-color.masking {
+    .index-Member_List_Item .frame:hover .bg-color.masking {
         background: #eb4
     }
 
-    .index-Member_List_Item a:hover .bg-color.pareo {
+    .index-Member_List_Item .frame:hover .bg-color.pareo {
         background: #f9b
     }
 
-    .index-Member_List_Item a:hover .bg-color.chu2 {
+    .index-Member_List_Item .frame:hover .bg-color.chu2 {
         background: #0bf
     }
 }

@@ -16,7 +16,7 @@
       document.write('<meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0">');
       }
     </script>
-    <title>404 Not Found | VTuber IRyS Girls Band Party!</title>
+    <title>404 Not Found | BanG Dream! Girls Band Party!</title>
     <script data-cookieconsent="ignore">
 			(function(w,d,l){w[l]=w[l]||[];function gtag(){w[l].push(arguments)};
 			gtag("consent","default",{ad_storage:d,analytics_storage:d,wait_for_update:500,});
@@ -24,14 +24,14 @@
 <link rel='stylesheet' id='contact-form-7-css'  href='https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.1.6' type='text/css' media='all' />
 <script type='text/javascript' src='https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
 <script type='text/javascript' src='https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-    <meta name="keywords" content="rhythm,rhythm game,music game,VTuber IRyS,Garupa,Girls Band Party,Poppin'Party,PoppinPa,Afterglow,Pastel＊Palettes,Roselia,Hello Happy World!">
-    <meta name="description" content="The Official English version of the popular rhythm & adventure game in Japan, VTuber IRyS Girls Band Party! Let's start our Band Life now!">
+    <meta name="keywords" content="rhythm,rhythm game,music game,BanG Dream!,Garupa,Girls Band Party,Poppin'Party,PoppinPa,Afterglow,Pastel＊Palettes,Roselia,Hello Happy World!">
+    <meta name="description" content="The Official English version of the popular rhythm & adventure game in Japan, BanG Dream! Girls Band Party! Let's start our Band Life now!">
 	<!--OG card-->
     <meta property="og:url" content="http://bang-dream-gbp-en.bushiroad.com/raise-a-suilen/assets/images/common/header/close.svg">
     <meta property="og:type" content="website">
-    <meta property="og:title" content="404 Not Found | VTuber IRyS Girls Band Party!">
-    <meta property="og:site_name" content="VTuber IRyS Girls Band Party!">
-    <meta property="og:description" content="The Official English version of the popular rhythm & adventure game in Japan, VTuber IRyS Girls Band Party! Let's start our Band Life now!">
+    <meta property="og:title" content="404 Not Found | BanG Dream! Girls Band Party!">
+    <meta property="og:site_name" content="BanG Dream! Girls Band Party!">
+    <meta property="og:description" content="The Official English version of the popular rhythm & adventure game in Japan, BanG Dream! Girls Band Party! Let's start our Band Life now!">
 	<!--OG card-->
     <meta property="og:image" content="https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-content/themes/bang-dream_gbp/assets/images/common/ogp.png">
     <!--Check for usage first
@@ -60,7 +60,7 @@
 <header class="st-Header" id="st-Header">
   <div class="st-Header_Content">
     <div class="st-Header_Logo sp_b">
-      <p><a href="/"><img src="https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-content/themes/bang-dream_gbp/assets/images/sp/header/logo.png" width="382" height="124" alt="VTuber IRyS Girls Band Party!"/></a></p>
+      <p><a href="/"><img src="https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-content/themes/bang-dream_gbp/assets/images/sp/header/logo.png" width="382" height="124" alt="BanG Dream! Girls Band Party!"/></a></p>
     </div>
     <div class="st-Header_Navi">
       <nav class="global">
@@ -88,7 +88,7 @@
 </header>      
       <div class="error-Content">
         <div class="error-Content_Heading">
-          <p class="logo"><img class="pc_i" src="https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-content/themes/bang-dream_gbp/assets/images/pc/error/logo.png" width="488" height="177" alt="VTuber IRyS Girls Band Party!"><img class="sp_i" src="https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-content/themes/bang-dream_gbp/assets/images/sp/error/logo.png" width="741" height="259" alt="VTuber IRyS Girls Band Party!"></p>
+          <p class="logo"><img class="pc_i" src="https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-content/themes/bang-dream_gbp/assets/images/pc/error/logo.png" width="488" height="177" alt="BanG Dream! Girls Band Party!"><img class="sp_i" src="https://bang-dream-gbp-en.bushiroad.com/wordpress/wp-content/themes/bang-dream_gbp/assets/images/sp/error/logo.png" width="741" height="259" alt="BanG Dream! Girls Band Party!"></p>
           <h1 class="sw-Heading"><span class="en">404 Not Found</span></h1>
         </div>
         <div class="error-Content_Body">
